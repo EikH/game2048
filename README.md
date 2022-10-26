@@ -1,6 +1,8 @@
 # 2048
 
-<img alt="2048" align="center" width="120" hspace="20" src="https://raw.githubusercontent.com/EikH/game2048/master/public/logo512.png">
+<div align='center'>
+  <img alt="2048" width="120" hspace="20" src="https://raw.githubusercontent.com/EikH/game2048/master/public/logo512.png">
+</div>
 
 ## 介绍		
 
